@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (Web2C 2013)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: proposal.aux
+The style file: acm.bst
+Database file #1: proposal.bib
+You've used 2 entries,
+            2253 wiz_defined-function locations,
+            541 strings with 4205 characters,
+and the built_in function-call counts, 711 in all, are:
+= -- 68
+> -- 30
+< -- 0
++ -- 11
+- -- 9
+* -- 51
+:= -- 121
+add.period$ -- 7
+call.type$ -- 2
+change.case$ -- 9
+chr.to.int$ -- 0
+cite$ -- 2
+duplicate$ -- 31
+empty$ -- 60
+format.name$ -- 9
+if$ -- 153
+int.to.chr$ -- 0
+int.to.str$ -- 2
+missing$ -- 2
+newline$ -- 13
+num.names$ -- 6
+pop$ -- 10
+preamble$ -- 1
+purify$ -- 7
+quote$ -- 0
+skip$ -- 20
+stack$ -- 0
+substring$ -- 34
+swap$ -- 10
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 8
+warning$ -- 0
+while$ -- 8
+width$ -- 3
+write$ -- 24
