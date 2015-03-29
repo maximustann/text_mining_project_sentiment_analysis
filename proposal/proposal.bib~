@@ -1,0 +1,30 @@
+@incollection{lazarsfeld1954fsp,
+    address = {New York},
+    author = {Lazarsfeld, P. F. and Merton, R. K.},
+    booktitle = {Freedom and Control in Modern Society},
+    citeulike-article-id = {3879258},
+    editor = {Berger, M. and Abel, T. and Page, C.},
+    keywords = {homophily, interpersonal-influence, social-networks},
+    pages = {18--66},
+    posted-at = {2009-01-12 21:48:55},
+    priority = {0},
+    publisher = {Van Nostrand},
+    title = {{Friendship as a social process: A substantive and methodological analysis}},
+    year = {1954}
+}
+
+@article{thelwall2010emotion,
+  title={Emotion homophily in social network site messages},
+  author={Thelwall, Mike},
+  journal={First Monday},
+  volume={15},
+  number={4},
+  year={2010}
+}
+
+@article{og,
+  title={How Companies Can Use Sentiment Analysis to Improve Their Business},
+  author={Ogneva, Maria},
+  journal={N.p., n.d. Web},
+  year={2010}
+}
